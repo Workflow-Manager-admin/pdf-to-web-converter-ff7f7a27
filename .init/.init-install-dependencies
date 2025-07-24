@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/pdf-to-web-converter-ff7f7a27/pdf_converter_frontend"
+}
